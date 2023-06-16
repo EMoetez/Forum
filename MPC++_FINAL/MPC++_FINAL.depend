@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1684502065 source:c:\users\msi\desktop\mpc++_final\documentation.cpp
+	"Documentation.h"
+	<sstream>
+
+1684431636 c:\users\msi\desktop\mpc++_final\documentation.h
+	<string>
+	"Site.h"
+	"Rubrique.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<fstream>
+	<ostream>
+
+1684431593 c:\users\msi\desktop\mpc++_final\rubrique.h
+	"Site.h"
+	<string>
+	<fstream>
+	<vector>
+
+1684431563 c:\users\msi\desktop\mpc++_final\site.h
+	<string>
+	<vector>
+	<fstream>
+
+1684314758 source:c:\users\msi\desktop\mpc++_final\main.cpp
+	<iostream>
+	"MenuPrincipale.h"
+
+1684450009 c:\users\msi\desktop\mpc++_final\menuprincipale.h
+	"Rubrique.h"
+	"Documentation.h"
+	"Auteur.h"
+	"Message.h"
+	"Profil.h"
+	"Site.h"
+	<string>
+	<vector>
+	<iostream>
+	<ostream>
+	<istream>
+	"Admins.h"
+
+1684502389 source:c:\users\msi\desktop\mpc++_final\menuprincipale.cpp
+	"MenuPrincipale.h"
+	"Rubrique.h"
+	"Documentation.h"
+	"Auteur.h"
+	"Message.h"
+	"Profil.h"
+	"Site.h"
+	"Documentation.h"
+	<string>
+	<vector>
+	<iostream>
+	<ostream>
+	<istream>
+	"Admins.h"
+
+1684501929 source:c:\users\msi\desktop\mpc++_final\rubrique.cpp
+	"Rubrique.h"
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+	<ostream>
+	<algorithm>
+
+1684431548 source:c:\users\msi\desktop\mpc++_final\site.cpp
+	"Site.h"
+	<iostream>
+	<sstream>
+
+1684508290 source:c:\users\msi\desktop\mpc++_final\message.cpp
+	<sstream>
+	<iostream>
+	"Message.h"
+	<string>
+	<vector>
+	<fstream>
+
+1684444070 c:\users\msi\desktop\mpc++_final\message.h
+	<string>
+	<vector>
+	<fstream>
+
+1684438188 source:c:\users\msi\desktop\mpc++_final\profil.cpp
+	"Profil.h"
+	<string>
+	<vector>
+	"Auteur.h"
+	<fstream>
+	<sstream>
+
+1684443172 c:\users\msi\desktop\mpc++_final\profil.h
+	<string>
+	<vector>
+	"Auteur.h"
+	<fstream>
+	<sstream>
+
+1684333149 c:\users\msi\desktop\mpc++_final\auteur.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1684447760 source:c:\users\msi\desktop\mpc++_final\auteur.cpp
+	<iostream>
+	"Auteur.h"
+	"Message.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1684440620 source:c:\users\msi\desktop\mpc++_final\admin.cpp
+	"Profil.h"
+	<string>
+	<vector>
+	"Auteur.h"
+	<fstream>
+	<sstream>
+
+1684450367 c:\users\msi\desktop\mpc++_final\admins.h
+	"Profil.h"
+	<fstream>
+
+1684450638 source:c:\users\msi\desktop\mpc++_final\admins.cpp
+	"Admins.h"
+	"Profil.h"
+	<fstream>
+	<string>
+
